@@ -1,0 +1,17 @@
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\bin\Debug\net8.0\ColourMemoryGame.exe
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\bin\Debug\net8.0\ColourMemoryGame.deps.json
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\bin\Debug\net8.0\ColourMemoryGame.runtimeconfig.json
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\bin\Debug\net8.0\ColourMemoryGame.dll
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\bin\Debug\net8.0\ColourMemoryGame.pdb
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.AssemblyInfoInputs.cache
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.AssemblyInfo.cs
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMe.E79A8ADE.Up2Date
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.dll
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\refint\ColourMemoryGame.dll
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.pdb
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.genruntimeconfig.cache
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ref\ColourMemoryGame.dll
