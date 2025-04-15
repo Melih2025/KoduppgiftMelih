@@ -15,3 +15,4 @@ C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\r
 C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.pdb
 C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.genruntimeconfig.cache
 C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ref\ColourMemoryGame.dll
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame\obj\Debug\net8.0\ColourMemoryGame.sourcelink.json

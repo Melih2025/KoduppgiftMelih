@@ -7,10 +7,10 @@ class Program
     {
         while (true)
         {
-            var gameManager = new GameManager();
+            var gameManager = new GameManager(); // skapar ny session för att börja om spelet.
             var ui = new GameUI(gameManager);
 
-            ui.PlayGame(); // anropar GameUI metoden PlayGame för att starta spelet.
+            ui.PlayGame(); // anropar GameUI metoden PlayGame för att starta spelet om igen.
 
             while (true)
             {

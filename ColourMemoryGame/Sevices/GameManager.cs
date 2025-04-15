@@ -68,7 +68,7 @@ namespace ColourMemoryGame.Services // Har koll på poängen och logiken för sp
             return first.Color == second.Color;
         }
 
-        public void MarkAsMatched(Card first, Card second) // Ger match
+        public void MarkAsMatched(Card first, Card second) // Markera kort som är matchade
         {
             first.IsMatched = true;
             second.IsMatched = true;

@@ -104,3 +104,4 @@ C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame.Tests\obj\Debug\ne
 C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame.Tests\obj\Debug\net8.0\ColourMemoryGame.Tests.pdb
 C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame.Tests\obj\Debug\net8.0\ColourMemoryGame.Tests.genruntimeconfig.cache
 C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame.Tests\obj\Debug\net8.0\ref\ColourMemoryGame.Tests.dll
+C:\Users\melih\source\repos\ColourMemoryGame\ColourMemoryGame.Tests\obj\Debug\net8.0\ColourMemoryGame.Tests.sourcelink.json

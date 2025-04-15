@@ -107,7 +107,7 @@ namespace ColourMemoryGame.UI // Kör spelet
             while (true)
             {
                 Console.Write(prompt);
-                string input = Console.ReadLine();
+                string input = Console.ReadLine() ?? ""; // för att inte skapa null värde
 
                 if (!int.TryParse(input, out int cardNumber))
                 {
